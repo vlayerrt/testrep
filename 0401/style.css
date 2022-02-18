@@ -1,0 +1,44 @@
+body {
+	padding: 0; 
+	margin: 0;
+	font-family: sans-serif;
+	font-weight: normal;
+}
+nav {
+	display: block;
+}
+header {
+	color: white;
+	background: purple;
+	position: relative;
+	padding: 0; 
+	margin: 0;
+	height: 60px;
+}
+li {
+	display: inline;
+}
+header a {
+	color: white;
+	text-decoration: none;
+}
+.navigation{
+	height: 60px;
+}
+.navigation ul {
+    padding: auto;
+    margin-top: auto;
+    list-style: none;
+    position: relative;
+}
+.navigation ul li {
+    padding: 5px;
+    margin-top: auto;
+
+    display: inline-block;
+    background-color: #8f1010;
+}
+#regbutton{
+	position: relative;
+	float: right;
+}
