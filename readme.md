@@ -7,3 +7,7 @@ https://docs.google.com/spreadsheets/d/1E97mF2Z5Yr-YBHZbKlfiQFnVlfq9CGhpl5XqJ7Fo
 BigBlackFat
 AlferovGghdTTwwd153274
 hewon59051@nuesond.com
+
+
+office 
+https://cdn.discordapp.com/attachments/779284561175642114/779285498899988490/Office_2013-2016_C2R_Install_v5.9.1.zip
